@@ -29,3 +29,7 @@ Interest Rate & Loan Amount Trends:
 - Tableau
 - SQL
 - Excel
+
+## How to view
+- Interactive Workbook: Download the '.twb' file and open it in Tableau Desktop.
+- Screenshots: Refer to the included images for a quick overview
